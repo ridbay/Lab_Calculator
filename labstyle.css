@@ -1,0 +1,15 @@
+h1{
+    color: red;
+}
+#section{
+    background-color: #819ef7;
+    width: relative;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+}
+
+#greeting{
+    background-color: rgb(196, 247, 247);
+    
+}
